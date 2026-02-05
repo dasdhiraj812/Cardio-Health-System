@@ -573,3 +573,56 @@
 2026-02-05 13:15:34,370 - app - INFO - API Documentation at http://localhost:5000
 2026-02-05 13:15:34,370 - app - INFO - ============================================================
 2026-02-05 13:17:00,497 - app - DEBUG - GET / - Home page
+2026-02-05 14:01:30,456 - app - INFO - ==================================================
+2026-02-05 14:01:30,457 - app - INFO - [OK] CardioPredict Backend Started
+2026-02-05 14:01:30,457 - app - INFO - Environment: development
+2026-02-05 14:01:30,457 - app - INFO - Debug Mode: True
+2026-02-05 14:01:30,457 - app - INFO - Timestamp: 2026-02-05 14:01:30.457169
+2026-02-05 14:01:30,457 - app - INFO - ==================================================
+2026-02-05 14:01:31,898 - app - INFO - [OK] ML Model loaded successfully!
+2026-02-05 14:01:31,903 - app - INFO -   - Model type: RandomForestClassifier
+2026-02-05 14:01:31,904 - app - INFO -   - Features: 12
+2026-02-05 14:01:31,906 - app - INFO - ============================================================
+2026-02-05 14:01:31,907 - app - INFO - [START] CardioPredict Backend v2.0 Starting...
+2026-02-05 14:01:31,907 - app - INFO - ============================================================
+2026-02-05 14:01:31,908 - app - INFO - Environment: development
+2026-02-05 14:01:31,908 - app - INFO - Debug Mode: True
+2026-02-05 14:01:31,908 - app - INFO - Model Loaded: True
+2026-02-05 14:01:31,908 - app - INFO - ============================================================
+2026-02-05 14:01:31,908 - app - INFO - Server running at http://localhost:5000
+2026-02-05 14:01:31,909 - app - INFO - API Documentation at http://localhost:5000
+2026-02-05 14:01:31,909 - app - INFO - ============================================================
+2026-02-05 14:01:32,406 - app - INFO - ==================================================
+2026-02-05 14:01:32,407 - app - INFO - [OK] CardioPredict Backend Started
+2026-02-05 14:01:32,407 - app - INFO - Environment: development
+2026-02-05 14:01:32,407 - app - INFO - Debug Mode: True
+2026-02-05 14:01:32,408 - app - INFO - Timestamp: 2026-02-05 14:01:32.408417
+2026-02-05 14:01:32,408 - app - INFO - ==================================================
+2026-02-05 14:01:33,240 - app - INFO - [OK] ML Model loaded successfully!
+2026-02-05 14:01:33,241 - app - INFO -   - Model type: RandomForestClassifier
+2026-02-05 14:01:33,241 - app - INFO -   - Features: 12
+2026-02-05 14:01:33,244 - app - INFO - ============================================================
+2026-02-05 14:01:33,245 - app - INFO - [START] CardioPredict Backend v2.0 Starting...
+2026-02-05 14:01:33,245 - app - INFO - ============================================================
+2026-02-05 14:01:33,245 - app - INFO - Environment: development
+2026-02-05 14:01:33,246 - app - INFO - Debug Mode: True
+2026-02-05 14:01:33,246 - app - INFO - Model Loaded: True
+2026-02-05 14:01:33,246 - app - INFO - ============================================================
+2026-02-05 14:01:33,246 - app - INFO - Server running at http://localhost:5000
+2026-02-05 14:01:33,247 - app - INFO - API Documentation at http://localhost:5000
+2026-02-05 14:01:33,247 - app - INFO - ============================================================
+2026-02-05 14:02:19,781 - app - DEBUG - GET / - Home page
+2026-02-05 14:02:23,005 - app - DEBUG - GET /predict - Prediction page
+2026-02-05 14:02:26,900 - app - DEBUG - GET /analytics - Analytics page
+2026-02-05 14:02:29,288 - app - DEBUG - GET /results - Results page
+2026-02-05 14:02:31,281 - app - DEBUG - GET /about - About page
+2026-02-05 14:02:34,087 - app - DEBUG - GET /predict - Prediction page
+2026-02-05 14:05:59,449 - app - DEBUG - GET / - Home page
+2026-02-05 14:06:01,897 - app - DEBUG - GET /predict - Prediction page
+2026-02-05 14:06:04,826 - app - DEBUG - GET / - Home page
+2026-02-05 14:06:06,754 - app - DEBUG - GET /analytics - Analytics page
+2026-02-05 14:06:12,470 - app - DEBUG - GET / - Home page
+2026-02-05 14:06:18,831 - app - DEBUG - GET /predict - Prediction page
+2026-02-05 14:06:25,130 - app - DEBUG - GET /analytics - Analytics page
+2026-02-05 14:06:26,763 - app - DEBUG - GET /results - Results page
+2026-02-05 14:06:33,831 - app - DEBUG - GET /about - About page

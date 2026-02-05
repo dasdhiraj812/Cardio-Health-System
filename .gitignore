@@ -1,0 +1,14 @@
+# Ignore environment variables (Secrets)
+.env
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore virtual environments (if you have one)
+venv/
+env/
+
+# OPTIONAL: Ignore the large model if you decide NOT to use LFS
+# Remove the # below if you want to completely skip uploading the model
+# *.pkl
